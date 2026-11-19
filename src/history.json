@@ -1,0 +1,157 @@
+{
+    "schema-version": 1,
+    "history": [
+        {
+            "id": "ef14f53d067a",
+            "text": "A clipboard history manager for Windows, inspired by Win+V. It keeps the last *n* items you copied, lets you pin items so they stay separate from that history, and lets you paste items with keyboard shortcuts.",
+            "html": "Version:0.9\r\nStartHTML:0000000105\r\nEndHTML:0000000707\r\nStartFragment:0000000141\r\nEndFragment:0000000671\r\n<html>\r\n<body>\r\n<!--StartFragment--><div style=\"color: #bbbebf;background-color: #121314;font-family: Consolas, 'Courier New', monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;\"><div><span style=\"color: #bbbebf;\">A clipboard history manager for Windows, inspired by Win+V. It keeps the last </span><span style=\"color: #c9d1d9;font-style: italic;\">*n*</span><span style=\"color: #bbbebf;\"> items you copied, lets you pin items so they stay separate from that history, and lets you paste items with keyboard shortcuts.</span></div></div><!--EndFragment-->\r\n</body>\r\n</html>",
+            "rtf": null,
+            "copied-at": "2026-11-19T13:31:44",
+            "source": "Code.exe"
+        },
+        {
+            "id": "e3eab86c8fe7",
+            "text": "privileges",
+            "html": null,
+            "rtf": null,
+            "copied-at": "2026-11-19T13:24:58",
+            "source": "msedge.exe"
+        },
+        {
+            "id": "9170146daecd",
+            "text": "privelages",
+            "html": "Version:0.9\r\nStartHTML:0000000105\r\nEndHTML:0000000415\r\nStartFragment:0000000141\r\nEndFragment:0000000379\r\n<html>\r\n<body>\r\n<!--StartFragment--><div style=\"color: #bbbebf;background-color: #121314;font-family: Consolas, 'Courier New', monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;\"><div><span style=\"color: #bbbebf;\">privelages</span></div></div><!--EndFragment-->\r\n</body>\r\n</html>",
+            "rtf": null,
+            "copied-at": "2026-11-19T13:24:49",
+            "source": "Code.exe"
+        },
+        {
+            "id": "59c9ddd1d1c6",
+            "text": "Architecturing ",
+            "html": "Version:0.9\r\nStartHTML:0000000105\r\nEndHTML:0000000801\r\nStartFragment:0000000141\r\nEndFragment:0000000765\r\n<html>\r\n<body>\r\n<!--StartFragment--><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" jsaction=\"\" jscontroller=\"tP2kf#s32ZS\" data-sfc-root=\"c\" jsuid=\"c6vAmb_40\" style=\"font-family: &quot;Google Sans&quot;, Roboto, Arial, sans-serif, &quot;Noto Color Emoji&quot;; font-size: 16px; font-weight: 700; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);\"><span data-subtree=\"aimfl,mfl\" style=\"font-family: &quot;Google Sans&quot;, Roboto, Arial, sans-serif, &quot;Noto Color Emoji&quot;; font-size: 16px; font-weight: 700; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);\">Architecturing</span><!--TgQPHd|||[]--></strong> <!--EndFragment-->\r\n</body>\r\n</html>",
+            "rtf": null,
+            "copied-at": "2026-11-19T13:00:52",
+            "source": "msedge.exe"
+        },
+        {
+            "id": "d4a3cd8c1f03",
+            "text": "Architexturing",
+            "html": "Version:0.9\r\nStartHTML:0000000105\r\nEndHTML:0000000419\r\nStartFragment:0000000141\r\nEndFragment:0000000383\r\n<html>\r\n<body>\r\n<!--StartFragment--><div style=\"color: #bbbebf;background-color: #121314;font-family: Consolas, 'Courier New', monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;\"><div><span style=\"color: #bbbebf;\">Architexturing</span></div></div><!--EndFragment-->\r\n</body>\r\n</html>",
+            "rtf": null,
+            "copied-at": "2026-11-19T13:00:47",
+            "source": "Code.exe"
+        },
+        {
+            "id": "9d8aef937bc4",
+            "text": "The GUI starts `bin\\monitor.exe` automatically, and the monitor stops when the GUI closes. If the monitor is missing or keeps crashing, the status bar shows a warning instead of \"Capturing\".",
+            "html": "Version:0.9\r\nStartHTML:0000000105\r\nEndHTML:0000000669\r\nStartFragment:0000000141\r\nEndFragment:0000000633\r\n<html>\r\n<body>\r\n<!--StartFragment--><div style=\"color: #bbbebf;background-color: #121314;font-family: Consolas, 'Courier New', monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;\"><div><span style=\"color: #bbbebf;\">The GUI starts </span><span style=\"color: #79c0ff;\">`bin\\monitor.exe`</span><span style=\"color: #bbbebf;\"> automatically, and the monitor stops when the GUI closes. If the monitor is missing or keeps crashing, the status bar shows a warning instead of \"Capturing\".</span></div></div><!--EndFragment-->\r\n</body>\r\n</html>",
+            "rtf": null,
+            "copied-at": "2026-11-19T12:52:08",
+            "source": "Code.exe"
+        },
+        {
+            "id": "08ee99e39236",
+            "text": "Full-Stack Web Developer & Cloud Engineer\r\n",
+            "html": "Version:0.9\r\nStartHTML:0000000166\r\nEndHTML:0000002750\r\nStartFragment:0000000202\r\nEndFragment:0000002714\r\nSourceURL:https://www.chandler-bolton-portfolio.dev/#header\r\n<html>\r\n<body>\r\n<!--StartFragment--><div class=\"hero-left\" bis_skin_checked=\"1\" style=\"box-sizing: border-box; border: 0px solid; margin: 0px; padding: 0px 0px 2rem 2rem; background-color: rgb(15, 26, 43); border-top-left-radius: 12px; border-bottom-left-radius: 12px; flex-direction: column; justify-content: center; align-items: center; width: 1008.25px; display: flex; color: rgb(230, 237, 247); font-family: Arial, Helvetica, sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><h3 style=\"box-sizing: border-box; border: 0px solid; margin: 0px 0px 0.5rem; padding: 0px; font-size: 1.75rem; font-weight: inherit; color: rgb(230, 237, 247); justify-content: start; align-items: start;\">Full-Stack Web Developer &amp; Cloud Engineer</h3></div><div class=\"hero-right\" bis_skin_checked=\"1\" style=\"box-sizing: border-box; border: 0px solid; margin: 0px; padding: 0px 2rem 0px 0px; text-align: right; background-color: rgb(15, 26, 43); border-top-right-radius: 12px; border-bottom-right-radius: 12px; flex-direction: column; justify-content: center; align-items: end; width: 1008.25px; display: flex; color: rgb(230, 237, 247); font-family: Arial, Helvetica, sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><div class=\"textContainer rightAlign\" bis_skin_checked=\"1\" style=\"box-sizing: border-box; border: 0px solid; margin: 1rem auto; padding: 0px; max-width: 80%; text-align: right; flex-direction: column; display: flex; justify-content: start; align-items: end;\"><div class=\"expandable collapsed heroIntro\" bis_skin_checked=\"1\" style=\"box-sizing: border-box; border: 0px solid; margin: 0px; padding: 0px; --clamp-lines: 6;\"><div class=\"expandableContent\" bis_skin_checked=\"1\" style=\"box-sizing: border-box; border: 0px solid; margin: 0px; padding: 0px; max-height: none; overflow: visible;\"></div></div></div></div><br class=\"Apple-interchange-newline\"><!--EndFragment-->\r\n</body>\r\n</html>",
+            "rtf": null,
+            "copied-at": "2026-11-19T12:41:40",
+            "source": "msedge.exe"
+        },
+        {
+            "id": "6be0aac19375",
+            "text": "HubSpot",
+            "html": "Version:0.9\r\nStartHTML:0000000181\r\nEndHTML:0000000820\r\nStartFragment:0000000217\r\nEndFragment:0000000784\r\nSourceURL:https://www.chandler-bolton-portfolio.dev/certifications#contact\r\n<html>\r\n<body>\r\n<!--StartFragment--><span style=\"color: rgb(230, 237, 247); font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(15, 26, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">HubSpot</span><!--EndFragment-->\r\n</body>\r\n</html>",
+            "rtf": null,
+            "copied-at": "2026-11-19T12:40:11",
+            "source": "msedge.exe"
+        },
+        {
+            "id": "7926cf5bd6f9",
+            "text": "University of Minnesota",
+            "html": "Version:0.9\r\nStartHTML:0000000181\r\nEndHTML:0000000836\r\nStartFragment:0000000217\r\nEndFragment:0000000800\r\nSourceURL:https://www.chandler-bolton-portfolio.dev/certifications#contact\r\n<html>\r\n<body>\r\n<!--StartFragment--><span style=\"color: rgb(230, 237, 247); font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(15, 26, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">University of Minnesota</span><!--EndFragment-->\r\n</body>\r\n</html>",
+            "rtf": null,
+            "copied-at": "2026-11-19T12:39:42",
+            "source": "msedge.exe"
+        },
+        {
+            "id": "4be8fa9abe77",
+            "text": "CMS for Developers",
+            "html": "Version:0.9\r\nStartHTML:0000000181\r\nEndHTML:0000000883\r\nStartFragment:0000000217\r\nEndFragment:0000000847\r\nSourceURL:https://www.chandler-bolton-portfolio.dev/certifications#contact\r\n<html>\r\n<body>\r\n<!--StartFragment--><h3 style=\"box-sizing: border-box; border: 0px solid; margin: 0px 0px 0.5rem; padding: 0px; font-size: 1.75rem; font-weight: inherit; color: rgb(230, 237, 247); justify-content: start; align-items: start; font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">CMS for Developers</h3><!--EndFragment-->\r\n</body>\r\n</html>",
+            "rtf": null,
+            "copied-at": "2026-11-19T12:39:38",
+            "source": "msedge.exe"
+        },
+        {
+            "id": "42fe34324eaf",
+            "text": "software.bolton@gmail.com",
+            "html": null,
+            "rtf": null,
+            "copied-at": "2026-11-19T12:34:42",
+            "source": "pythonw.exe"
+        },
+        {
+            "id": "95f15186a1a3",
+            "text": "HubSpot Architecture: Data Models and APIs\r\n",
+            "html": "Version:0.9\r\nStartHTML:0000000181\r\nEndHTML:0000000945\r\nStartFragment:0000000217\r\nEndFragment:0000000909\r\nSourceURL:https://www.chandler-bolton-portfolio.dev/certifications#contact\r\n<html>\r\n<body>\r\n<!--StartFragment--><h3 style=\"box-sizing: border-box; border: 0px solid; margin: 0px 0px 0.5rem; padding: 0px; font-size: 1.75rem; font-weight: inherit; color: rgb(230, 237, 247); justify-content: start; align-items: start; font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">HubSpot Architecture: Data Models and APIs</h3><br class=\"Apple-interchange-newline\"><!--EndFragment-->\r\n</body>\r\n</html>",
+            "rtf": null,
+            "copied-at": "2026-11-19T12:33:17",
+            "source": "msedge.exe"
+        },
+        {
+            "id": "be804c47bbba",
+            "text": "Agile Software Development",
+            "html": "Version:0.9\r\nStartHTML:0000000181\r\nEndHTML:0000000891\r\nStartFragment:0000000217\r\nEndFragment:0000000855\r\nSourceURL:https://www.chandler-bolton-portfolio.dev/certifications#contact\r\n<html>\r\n<body>\r\n<!--StartFragment--><h3 style=\"box-sizing: border-box; border: 0px solid; margin: 0px 0px 0.5rem; padding: 0px; font-size: 1.75rem; font-weight: inherit; color: rgb(230, 237, 247); justify-content: start; align-items: start; font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Agile Software Development</h3><!--EndFragment-->\r\n</body>\r\n</html>",
+            "rtf": null,
+            "copied-at": "2026-11-19T12:32:53",
+            "source": "msedge.exe"
+        },
+        {
+            "id": "a4e1a91aa966",
+            "text": "Python ",
+            "html": "Version:0.9\r\nStartHTML:0000000181\r\nEndHTML:0000000886\r\nStartFragment:0000000217\r\nEndFragment:0000000850\r\nSourceURL:https://www.chandler-bolton-portfolio.dev/certifications#contact\r\n<html>\r\n<body>\r\n<!--StartFragment--><h3 style=\"box-sizing: border-box; border: 0px solid; margin: 0px 0px 0.5rem; padding: 0px; font-size: 1.75rem; font-weight: inherit; color: rgb(230, 237, 247); justify-content: start; align-items: start; font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Python<span> </span></h3><!--EndFragment-->\r\n</body>\r\n</html>",
+            "rtf": null,
+            "copied-at": "2026-11-19T12:31:23",
+            "source": "msedge.exe"
+        },
+        {
+            "id": "7d571dbf76ea",
+            "text": "Full-Stack Web Developer & Cloud Engineer ",
+            "html": "Version:0.9\r\nStartHTML:0000000105\r\nEndHTML:0000000219\r\nStartFragment:0000000141\r\nEndFragment:0000000183\r\n<html>\r\n<body>\r\n<!--StartFragment-->Full-Stack Web Developer & Cloud Engineer <!--EndFragment-->\r\n</body>\r\n</html>",
+            "rtf": null,
+            "copied-at": "2026-11-19T11:27:45",
+            "source": "msedge.exe"
+        }
+    ],
+    "pinned": [
+        {
+            "id": "035988095934",
+            "text": "software.bolton@gmail.com",
+            "html": null,
+            "rtf": null,
+            "copied-at": "2026-11-19T12:32:23",
+            "source": "Typed in Copy Manager",
+            "label": "Software Email",
+            "pinned-at": "2026-11-19T12:32:23"
+        },
+        {
+            "id": "1d7f9a2e5b05",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "html": null,
+            "rtf": null,
+            "copied-at": "2026-11-17T10:00:00",
+            "source": null,
+            "label": "Lorem Ipsum",
+            "pinned-at": "2026-11-17T10:01:00"
+        },
+        {
+            "id": "6b3c8e0f1a06",
+            "text": "The Bee Movie",
+            "html": null,
+            "rtf": null,
+            "copied-at": "2026-11-16T14:30:00",
+            "source": null,
+            "label": null,
+            "pinned-at": "2026-11-16T14:31:00"
+        }
+    ]
+}

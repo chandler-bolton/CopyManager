@@ -1,0 +1,107 @@
+2026-11-19 09:35:53,350 INFO app: CopyManager started: 4 in history, 2 pinned
+2026-11-19 09:40:28,991 INFO app: CopyManager closed
+2026-11-19 09:56:30,745 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 09:56:30,745 INFO app: CopyManager started: 4 in history, 2 pinned
+2026-11-19 10:36:36,940 INFO app: CopyManager closed
+2026-11-19 10:40:57,823 INFO src.config: preferences.hotkey-modifiers: 'win+alt' is no longer an option; using 'ctrl+alt'
+2026-11-19 10:40:57,931 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 10:40:57,932 INFO app: CopyManager started: 4 in history, 2 pinned
+2026-11-19 10:41:34,296 INFO src.config: preferences.capture-enabled = False
+2026-11-19 10:41:34,296 INFO app: Clipboard capture paused
+2026-11-19 10:41:35,623 INFO src.config: preferences.capture-enabled = True
+2026-11-19 10:41:35,623 INFO app: Clipboard capture resumed
+2026-11-19 10:41:41,255 INFO src.config: preferences.capture-enabled = False
+2026-11-19 10:41:41,255 INFO app: Clipboard capture paused
+2026-11-19 10:41:42,336 INFO src.config: preferences.capture-enabled = True
+2026-11-19 10:41:42,337 INFO app: Clipboard capture resumed
+2026-11-19 10:41:51,970 INFO src.config: preferences.ignore-whitespace-only = False
+2026-11-19 10:42:22,372 INFO app: CopyManager closed
+2026-11-19 10:42:53,425 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 10:42:53,428 INFO app: CopyManager started: 4 in history, 2 pinned
+2026-11-19 11:06:16,708 INFO app: CopyManager closed
+2026-11-19 11:06:21,176 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 11:06:21,224 INFO app: CopyManager started: 4 in history, 2 pinned
+2026-11-19 11:07:06,677 INFO app: CopyManager closed
+2026-11-19 11:10:41,446 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 11:10:41,500 INFO app: CopyManager started: 6 in history, 2 pinned
+2026-11-19 11:11:31,397 INFO app: Copied item 6f00838d1ba5 to the clipboard (7 chars)
+2026-11-19 11:11:34,187 INFO app: Copied item 6f00838d1ba5 to the clipboard (7 chars)
+2026-11-19 11:11:46,195 INFO app: Copied item 735b4fbf8ded to the clipboard as text only (15 chars)
+2026-11-19 11:11:50,227 INFO app: Copied item 735b4fbf8ded to the clipboard formatting only (15 chars)
+2026-11-19 11:12:32,937 INFO src.config: preferences.ignore-whitespace-only = True
+2026-11-19 11:12:40,617 INFO src.config: preferences.paste-mode = 'text-only'
+2026-11-19 11:12:43,241 INFO src.config: preferences.trim-whitespace-on-paste = True
+2026-11-19 11:12:59,974 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 11:12:59,977 INFO app: Settings saved and refreshed
+2026-11-19 11:13:00,138 INFO app: Saved and refreshed. Paste shortcuts Ctrl+Alt+0–9 are active. Pop-out shortcut Ctrl+Alt+Win+V is active.
+2026-11-19 11:13:58,504 INFO src.config: preferences.hotkey-modifiers = 'ctrl+shift'
+2026-11-19 11:18:00,255 INFO app: CopyManager closed
+2026-11-19 11:22:45,898 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 11:22:46,049 INFO app: CopyManager started: 10 in history, 2 pinned
+2026-11-19 11:22:49,361 INFO app: Cleared 10 history item(s)
+2026-11-19 11:23:34,567 INFO app: Copied item c58f04bf5590 to the clipboard as text only (70 chars)
+2026-11-19 11:24:05,103 INFO src.config: preferences.paste-add-space = True
+2026-11-19 11:24:10,225 INFO src.config: preferences.paste-add-space = False
+2026-11-19 11:24:11,665 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 11:24:11,667 INFO app: Settings saved and refreshed
+2026-11-19 11:24:11,797 INFO app: Saved and refreshed. Paste shortcuts Ctrl+Shift+0–9 are active. Pop-out shortcut Ctrl+Alt+Win+V is active.
+2026-11-19 11:28:13,201 INFO app: CopyManager closed
+2026-11-19 12:03:58,676 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 12:03:58,844 INFO app: CopyManager started: 5 in history, 2 pinned
+2026-11-19 12:04:03,304 INFO app: Restarting as administrator
+2026-11-19 12:04:03,645 INFO app: CopyManager closed
+2026-11-19 12:04:03,896 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 12:04:04,052 INFO app: CopyManager started as administrator: 5 in history, 2 pinned
+2026-11-19 12:05:51,906 INFO app: CopyManager closed
+2026-11-19 12:11:55,945 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 12:11:56,106 INFO app: CopyManager started: 5 in history, 2 pinned
+2026-11-19 12:12:25,512 INFO app: Restarting as administrator
+2026-11-19 12:12:25,933 INFO app: CopyManager closed
+2026-11-19 12:12:26,171 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 12:12:26,381 INFO app: CopyManager started as administrator: 5 in history, 2 pinned
+2026-11-19 12:12:44,096 INFO app: CopyManager closed
+2026-11-19 12:12:46,764 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 12:12:47,086 INFO app: CopyManager started: 5 in history, 2 pinned
+2026-11-19 12:17:40,511 INFO app: CopyManager closed
+2026-11-19 12:17:44,813 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 12:17:45,004 INFO app: CopyManager started: 5 in history, 2 pinned
+2026-11-19 12:18:29,172 INFO app: CopyManager closed
+2026-11-19 12:30:49,436 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 12:30:49,685 INFO app: CopyManager started: 5 in history, 2 pinned
+2026-11-19 12:31:45,095 INFO src.config: preferences.max-history-limit = 11
+2026-11-19 12:31:45,414 INFO src.config: preferences.max-history-limit = 12
+2026-11-19 12:31:45,667 INFO src.config: preferences.max-history-limit = 13
+2026-11-19 12:31:45,898 INFO src.config: preferences.max-history-limit = 14
+2026-11-19 12:31:46,149 INFO src.config: preferences.max-history-limit = 15
+2026-11-19 12:31:46,988 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 12:31:46,988 INFO app: Settings saved and refreshed
+2026-11-19 12:31:47,114 INFO app: Saved and refreshed. Paste shortcuts Ctrl+Shift+0–9 are active. Pop-out shortcut Ctrl+Alt+Win+V is active.
+2026-11-19 12:33:57,262 INFO app: Copied item 7926cf5bd6f9 to the clipboard (23 chars)
+2026-11-19 12:34:01,271 INFO app: Copied item 4be8fa9abe77 to the clipboard (18 chars)
+2026-11-19 12:34:42,407 INFO app: Copied item 035988095934 to the clipboard (25 chars)
+2026-11-19 12:36:02,129 INFO app: CopyManager closed
+2026-11-19 12:38:33,309 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 12:38:33,574 INFO app: CopyManager started: 12 in history, 3 pinned
+2026-11-19 12:39:38,872 INFO app: Copied item 4be8fa9abe77 to the clipboard (18 chars)
+2026-11-19 12:39:42,242 INFO app: Copied item 7926cf5bd6f9 to the clipboard (23 chars)
+2026-11-19 12:39:51,653 INFO src.config: preferences.paste-add-space = True
+2026-11-19 12:39:52,469 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 12:39:52,470 INFO app: Settings saved and refreshed
+2026-11-19 12:39:52,669 INFO app: Saved and refreshed. Paste shortcuts Ctrl+Shift+0–9 are active. Pop-out shortcut Ctrl+Alt+Win+V is active.
+2026-11-19 12:39:54,670 INFO app: Copied item 6be0aac19375 to the clipboard (7 chars)
+2026-11-19 12:40:11,709 INFO app: Copied item 6be0aac19375 to the clipboard (7 chars)
+2026-11-19 12:44:44,493 INFO app: CopyManager closed
+2026-11-19 13:20:08,644 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 13:20:08,644 INFO app: CopyManager started: 15 in history, 3 pinned
+2026-11-19 13:26:54,648 INFO src.config: preferences.capture-enabled = False
+2026-11-19 13:26:54,650 INFO app: Clipboard capture paused
+2026-11-19 13:26:56,237 INFO src.config: preferences.capture-enabled = True
+2026-11-19 13:26:56,239 INFO app: Clipboard capture resumed
+2026-11-19 13:26:56,795 INFO src.config: preferences.capture-enabled = False
+2026-11-19 13:26:56,796 INFO app: Clipboard capture paused
+2026-11-19 13:26:57,534 INFO src.config: preferences.capture-enabled = True
+2026-11-19 13:26:57,535 INFO app: Clipboard capture resumed
+2026-11-19 13:34:37,839 INFO app: CopyManager closed
+2026-11-19 13:34:39,662 INFO app: Pop-out shortcut registered: ctrl+alt+win+v
+2026-11-19 13:34:39,862 INFO app: CopyManager started: 15 in history, 3 pinned
+2026-11-19 13:34:43,020 INFO app: CopyManager closed

@@ -1,0 +1,24 @@
+{
+    "schema-version": 1,
+    "pid": 234292,
+    "updated-at": "2026-11-19T13:34:42",
+    "refresh-id": 0,
+    "capture-enabled": true,
+    "paste-shortcuts": {
+        "enabled": true,
+        "modifiers": "ctrl+shift",
+        "registered": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "failed": []
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "schema-version": 1,
+    "settings": {
+        "run-on-startup": false,
+        "run-as-admin": false,
+        "start-minimized": false,
+        "always-on-top": false,
+        "restore-open-tabs": true,
+        "confirm-clear-history": true,
+        "popout-always-on-top": true,
+        "theme": "dark",
+        "font-family": "Segoe UI",
+        "font-size": 10
+    },
+    "preferences": {
+        "capture-enabled": true,
+        "max-history-limit": 15,
+        "pins-bypass-limit": true,
+        "duplicate-handling": "move-to-top",
+        "ignore-whitespace-only": true,
+        "hotkeys-enabled": true,
+        "hotkey-modifiers": "ctrl+shift",
+        "custom-hotkey-modifiers": "ctrl+alt+shift",
+        "paste-mode": "text-only",
+        "trim-whitespace-on-paste": true,
+        "paste-add-space": true,
+        "paste-add-newline": false,
+        "restore-clipboard-after-paste": true,
+        "popout-hotkey-enabled": true,
+        "popout-hotkey": "ctrl+alt+win+v",
+        "popout-close-on-copy": false
+    },
+    "state": {
+        "open-tabs": [
+            "history",
+            "pinned",
+            "preferences",
+            "output"
+        ],
+        "active-tab": "output",
+        "sidebar-collapsed": false,
+        "collapsed-sections": [],
+        "window-geometry": "1315x700+1635+365",
+        "window-maximized": false,
+        "open-popouts": [],
+        "popout-geometry": {
+            "history": "475x811+3176+1131",
+            "pinned": "475x650+3224+300"
+        }
+    },
+    "defaults": {
+        "settings": {
+            "run-on-startup": false,
+            "run-as-admin": false,
+            "start-minimized": false,
+            "always-on-top": false,
+            "restore-open-tabs": true,
+            "confirm-clear-history": true,
+            "popout-always-on-top": true,
+            "theme": "dark",
+            "font-family": "Segoe UI",
+            "font-size": 10
+        },
+        "preferences": {
+            "capture-enabled": true,
+            "max-history-limit": 10,
+            "pins-bypass-limit": true,
+            "duplicate-handling": "move-to-top",
+            "ignore-whitespace-only": true,
+            "hotkeys-enabled": true,
+            "hotkey-modifiers": "ctrl+alt",
+            "custom-hotkey-modifiers": "ctrl+alt+shift",
+            "paste-mode": "keep-formatting",
+            "trim-whitespace-on-paste": false,
+            "paste-add-space": false,
+            "paste-add-newline": false,
+            "restore-clipboard-after-paste": true,
+            "popout-hotkey-enabled": true,
+            "popout-hotkey": "ctrl+alt+win+v",
+            "popout-close-on-copy": false
+        }
+    }
+}
